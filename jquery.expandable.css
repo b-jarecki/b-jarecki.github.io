@@ -4,11 +4,10 @@
 
 .expandable .expand-bar {
     position: absolute;
-    display: block;
-    left: 0px;
-    bottom: 0px;
-    background-color: white;
-    width: 20%;
+    display: inline;
+    left: 640px;
+    top: 0px;
+    width: 15%;
     cursor: pointer;
     text-decoration: none;
     font-weight: bold;
@@ -16,8 +15,8 @@
     padding-left: 10px;
     padding-right: 30px;
     font-size: 16px;
-    text-transform: uppercase;
-    line-height: 26px;
+	color: #00008b;
+    line-height: 30px;
 }
 
 .expandable .expand-bar::before {
