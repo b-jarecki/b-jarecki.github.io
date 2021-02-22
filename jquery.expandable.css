@@ -4,7 +4,7 @@
 
 .expandable .expand-bar {
     position: absolute;
-    display: inline;
+    display: block;
     left: 640px;
     top: 0px;
     width: 15%;
